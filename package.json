@@ -1,11 +1,16 @@
 {
   "name": "hello-mars",
   "version": "1.0.0",
-  "description": "",
+  "description": "Say hello to Mars",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeeames/hello-mars"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/joeeames/hello-mars"
 }
